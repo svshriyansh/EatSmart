@@ -1,0 +1,33 @@
+# Java
+*.class
+*.log
+
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle (if applicable)
+/build/
+
+# Eclipse / IntelliJ IDEA
+*.iml
+.idea/
+*.ipr
+*.iws
+*.classpath
+*.project
+*.settings/
+
+# VSCode
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
